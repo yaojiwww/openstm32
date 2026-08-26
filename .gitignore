@@ -1,0 +1,13 @@
+# STM32CubeIDE generated output
+Debug/
+Release/
+*.launch
+.settings/
+.metadata/
+
+# Editors and operating systems
+.DS_Store
+.vscode/
+
+# Local test binary
+Tests/test_runner
